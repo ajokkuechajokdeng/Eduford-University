@@ -27,7 +27,7 @@
 - The contact form on the Contact Us page is handled by form-handler.php. It uses PHP to send an email to the specified email address with the form submission details.
 
 ## Usage
-- Feel free to use this code as a template for your own educational or personal projects. Customize it according to your needs.
+- Feel free to use this code as a template for your own educational or personal projects😜. Customize it according to your needs.
 
 ## Author
 - Ajok Kuech Ajok Deng
