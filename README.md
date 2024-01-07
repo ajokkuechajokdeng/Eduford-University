@@ -23,7 +23,7 @@
 ## JavaScript
 - JavaScript is used for toggling the navigation menu. The script is included at the end of each HTML file.
 
-# Contact Form
+## Contact Form
 - The contact form on the Contact Us page is handled by form-handler.php. It uses PHP to send an email to the specified email address with the form submission details.
 
 ## Usage
